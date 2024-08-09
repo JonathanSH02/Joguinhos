@@ -1,0 +1,53 @@
+{
+  "$GMProject":"",
+  "%Name":"Doxcinho game",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.2.0.132",
+  },
+  "name":"Doxcinho game",
+  "resources":[
+    {"id":{"name":"Inimigo","path":"objects/Inimigo/Inimigo.yy",},},
+    {"id":{"name":"InimigoMov","path":"objects/InimigoMov/InimigoMov.yy",},},
+    {"id":{"name":"Objetivo","path":"objects/Objetivo/Objetivo.yy",},},
+    {"id":{"name":"Paredes","path":"objects/Paredes/Paredes.yy",},},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"id":{"name":"DOXCINHO","path":"sprites/DOXCINHO/DOXCINHO.yy",},},
+    {"id":{"name":"DoxcinhoCorre","path":"sprites/DoxcinhoCorre/DoxcinhoCorre.yy",},},
+    {"id":{"name":"Fundo","path":"sprites/Fundo/Fundo.yy",},},
+    {"id":{"name":"Parede","path":"sprites/Parede/Parede.yy",},},
+    {"id":{"name":"Slime","path":"sprites/Slime/Slime.yy",},},
+    {"id":{"name":"Sorvetinho","path":"sprites/Sorvetinho/Sorvetinho.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

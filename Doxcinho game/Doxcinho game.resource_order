@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Inimigo","order":2,"path":"objects/Inimigo/Inimigo.yy",},
+    {"name":"InimigoMov","order":3,"path":"objects/InimigoMov/InimigoMov.yy",},
+    {"name":"Objetivo","order":1,"path":"objects/Objetivo/Objetivo.yy",},
+    {"name":"Paredes","order":4,"path":"objects/Paredes/Paredes.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"DOXCINHO","order":1,"path":"sprites/DOXCINHO/DOXCINHO.yy",},
+    {"name":"DoxcinhoCorre","order":4,"path":"sprites/DoxcinhoCorre/DoxcinhoCorre.yy",},
+    {"name":"Fundo","order":5,"path":"sprites/Fundo/Fundo.yy",},
+    {"name":"Parede","order":6,"path":"sprites/Parede/Parede.yy",},
+    {"name":"Slime","order":2,"path":"sprites/Slime/Slime.yy",},
+  ],
+}
